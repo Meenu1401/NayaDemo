@@ -1,0 +1,2 @@
+include ':app', ':gateway', ':gatewayimpl','controller','viewData','interactor','entity'
+rootProject.name='Nayan'
